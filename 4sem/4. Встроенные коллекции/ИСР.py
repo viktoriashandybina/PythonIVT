@@ -1,5 +1,3 @@
-import numpy as np
-import random
 from random import randint
 
 def sort(nums):  
