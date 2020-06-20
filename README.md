@@ -43,3 +43,13 @@
 *****
 
 ## 5 семестр
+
+[1. Модули. Пакеты. ИСР(не добавлено)][15]<br>
+[2. Модули. Пакеты. ВСР(не добавлено)][16]<br>
+[3. Итераторы ИСР][17]<br> 
+[4. Итераторы ВСР][18]<br>
+
+[15]: 
+[16]: 
+[17]: https://github.com/viktoriashandybina/PythonIVT/blob/master/5sem/2.%20%D0%98%D1%82%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/%D0%98%D0%A1%D0%A0.py
+[18]: https://github.com/viktoriashandybina/PythonIVT/blob/master/5sem/2.%20%D0%98%D1%82%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B/%D0%92%D0%A1%D0%A0.py
